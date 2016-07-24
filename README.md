@@ -21,3 +21,15 @@ You're all set! In a few minutes your website will go live at: http://your_usern
 Note: your_username must be replaced by your github username. (Locate username by selecting your profile icon on top right, then select "Your Profile").
 
 Check out website for this repository at arshinx.github.io
+
+For more detailed instructions and domain connectivity, visit: https://pages.github.com/ and scroll down for instructions.
+Animation classes:  http://daneden.github.io/animate.css/
+Bootstrap CSS:      http://getbootstrap.com/css/
+Bootstrap JS:       http://getbootstrap.com/javascript/
+Atom Text Editor:   http://atom.io
+
+Potential Changes:
+Update images in the 'img' folder.
+Update details and text in 'index.html' file.
+
+I hope my workshop was fun and enjoyable, and everyone learned a lot!
