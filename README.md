@@ -2,7 +2,8 @@
 
 TO PUBLISH:
 
--> Easy Method - Also Save Money on Hosting
+-> Easy Method - Host using Github Pages
+
 1. Create a Github Account
 
 2. On Top Right corner of github website, select the '+' button on the right of your profile image.
@@ -18,3 +19,5 @@ TO PUBLISH:
 You're all set! In a few minutes your website will go live at: http://your_username.github.io
 
 Note: your_username must be replaced by your github username. (Locate username by selecting your profile icon on top right, then select "Your Profile").
+
+Check out website for this repository at arshinx.github.io
